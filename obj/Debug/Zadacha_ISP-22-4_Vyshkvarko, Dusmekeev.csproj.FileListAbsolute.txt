@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Zadacha_ISP-22-4_Vyshkvarko, Dusmekeev\obj\Debug\Zadacha_ISP-22-4_Vyshkvarko, Dusmekeev.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Zadacha_ISP-22-4_Vyshkvarko, Dusmekeev\obj\Debug\Zadacha_ISP-22-4_Vyshkvarko, Dusmekeev.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Zadacha_ISP-22-4_Vyshkvarko, Dusmekeev\bin\Debug\Zadacha_ISP-22-4_Vyshkvarko, Dusmekeev.exe.config
+C:\Users\user\source\repos\Zadacha_ISP-22-4_Vyshkvarko, Dusmekeev\bin\Debug\Zadacha_ISP-22-4_Vyshkvarko, Dusmekeev.exe
+C:\Users\user\source\repos\Zadacha_ISP-22-4_Vyshkvarko, Dusmekeev\bin\Debug\Zadacha_ISP-22-4_Vyshkvarko, Dusmekeev.pdb
+C:\Users\user\source\repos\Zadacha_ISP-22-4_Vyshkvarko, Dusmekeev\obj\Debug\Zadacha_ISP-22-4_Vyshkvarko, Dusmekeev.exe
+C:\Users\user\source\repos\Zadacha_ISP-22-4_Vyshkvarko, Dusmekeev\obj\Debug\Zadacha_ISP-22-4_Vyshkvarko, Dusmekeev.pdb
